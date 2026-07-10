@@ -166,7 +166,7 @@ npm run web
 
 # Author
 
-Your Name
+Adarsh Rajesh Poduval
 
 ---
 
