@@ -155,26 +155,6 @@ npm run web
 ```
 
 ---
-
-# Screenshots
-
-Add screenshots here.
-
-Example:
-
-```
-screenshots/
-    home.png
-```
-
-Then write
-
-```markdown
-![Home Screen](screenshots/home.png)
-```
-
----
-
 # Future Improvements
 
 - Dark Mode
